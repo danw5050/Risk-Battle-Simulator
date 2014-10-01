@@ -146,4 +146,5 @@ for i in range (int(NumberofRounds)):
     if not user_input == 'y':
         break
 
+#you could write which team has lost over her and which has won. Also, make sure to add amount of players at the end
         
